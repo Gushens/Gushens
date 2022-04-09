@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Gustavo
-- 👀 I’m interested in gaming developent
+- 👀 I’m interested in gaming development
 - 🌱 I’m currently learning GML
 
 
